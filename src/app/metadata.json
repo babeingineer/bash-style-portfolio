@@ -1,0 +1,11 @@
+{
+    "icons": {
+      "icon": "/favicon.ico"
+    },
+    "title": "Akash.is",
+    "description": "Gateway to Akash Gajjar",
+    "openGraph": {
+      "title": "Akash.is",
+      "description": "Gateway to Akash Gajjar"
+    }
+}
